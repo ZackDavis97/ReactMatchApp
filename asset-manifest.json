@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactMatchApp/static/css/main.073c9b0a.css",
+    "main.js": "/ReactMatchApp/static/js/main.c51fee7b.js",
+    "static/js/787.ce88822f.chunk.js": "/ReactMatchApp/static/js/787.ce88822f.chunk.js",
+    "static/media/logo.svg": "/ReactMatchApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactMatchApp/index.html",
+    "main.073c9b0a.css.map": "/ReactMatchApp/static/css/main.073c9b0a.css.map",
+    "main.c51fee7b.js.map": "/ReactMatchApp/static/js/main.c51fee7b.js.map",
+    "787.ce88822f.chunk.js.map": "/ReactMatchApp/static/js/787.ce88822f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c51fee7b.js"
+  ]
+}
